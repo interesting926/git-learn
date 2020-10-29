@@ -1,0 +1,12 @@
+# Windows:
+
+# IAR:
+_htmresc/
+Libraries/
+si_proj/
+Utilities/
+EWSTM8/
+RIDE/
+STVD/
+*.pdf
+*.chm
